@@ -1,0 +1,19 @@
+
+
+
+
+Çalıştırmak için yapman gerekenler:
+
+http://127.0.0.1:5000/m4a_Api
+
+
+1)deneme.py yi çalıştır.(pycharm, anaconda prompt ya da başka biyerde). Sana bir url sunacak bu çalıştı demek.
+
+2)Yukardaki url'i postmande çalıştırmadan önce url girilecek yerin sol tarafını POST yapıp,
+3)Alt sekmelerdeki BODY kısmında ise "raw" ve JSON ibarelerini seç.
+4)sonra alttaki json tipindeki dosyayı post et
+
+
+
+
+{"krediMiktari":11645459, "yas":14, "evDurumu":1,"aldigi_kredi_sayi":2,"telefonDurumu":1}
